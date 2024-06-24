@@ -40,7 +40,7 @@ section {
 
 h2 {
     color: #2c3e50;
-    border-bottom: 2px solid #3498db;
+    border-bottom: 2px solid #FFD700;
     padding-bottom: 10px;
 }
 
@@ -54,7 +54,7 @@ li {
 }
 
 a {
-    color: #3498db;
+    color: #FFD700;
     text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ input, textarea {
 
 button {
     padding: 10px 15px;
-    background-color: #3498db;
+    background-color: #FFD700;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -85,5 +85,5 @@ button {
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #FFD700;
 }
